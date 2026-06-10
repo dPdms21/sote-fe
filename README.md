@@ -31,7 +31,7 @@
 | Award           | 2025 캡스톤 경진대회 아리상                        |
 | Repository Type | Portfolio-maintained frontend repository |
 | Original Team Repository | [fluxion-capstone/sote-ui](https://github.com/fluxion-capstone/sote-ui) |
-| Personal Repository      | [DevLucia-21/sote-fe](https://github.com/DevLucia-21/sote-fe)     |
+| Personal Repository      | [dPdms21/sote-fe](https://github.com/dPdms21/sote-fe)     |
 | Main Role | Frontend UI/UX, service flow design, post-project refactoring |
 
 ---
@@ -78,10 +78,10 @@ S:ote는 단순히 일기를 저장하는 데 그치지 않고,
 
 | Branch                                                                                   | Description                               |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [`main`](https://github.com/DevLucia-21/sote-fe/tree/main)                               | 포트폴리오용 최종 정리 브랜치                          |
-| [`refactor/local`](https://github.com/DevLucia-21/sote-fe/tree/refactor/local)           | 프로젝트 종료 후 기능 재점검 및 로컬 실행 안정화를 위한 리팩토링 브랜치 |
-| [`demo/exhibition`](https://github.com/DevLucia-21/sote-fe/tree/demo/exhibition)         | 캡스톤 경진대회 전시 및 시연용 브랜치                     |
-| [`release/deploy-main`](https://github.com/DevLucia-21/sote-fe/tree/release/deploy-main) | 기존 배포용 `main` 상태 보존 브랜치                   |
+| [`main`](https://github.com/dPdms21/sote-fe/tree/main)                               | 포트폴리오용 최종 정리 브랜치                          |
+| [`refactor/local`](https://github.com/dPdms21/sote-fe/tree/refactor/local)           | 프로젝트 종료 후 기능 재점검 및 로컬 실행 안정화를 위한 리팩토링 브랜치 |
+| [`demo/exhibition`](https://github.com/dPdms21/sote-fe/tree/demo/exhibition)         | 캡스톤 경진대회 전시 및 시연용 브랜치                     |
+| [`release/deploy-main`](https://github.com/dPdms21/sote-fe/tree/release/deploy-main) | 기존 배포용 `main` 상태 보존 브랜치                   |
 
 ---
 
@@ -534,7 +534,7 @@ Vite의 `import.meta.env`를 직접 사용할 수 없습니다.
 ## Running the Project
 
 ```bash
-git clone https://github.com/DevLucia-21/sote-fe.git
+git clone https://github.com/dPdms21/sote-fe.git
 cd sote-fe
 npm install
 ```
@@ -557,9 +557,9 @@ npm run build
 
 | Repository | Description              |
 | ---------- | ------------------------ |
-| [`sote-fe`](https://github.com/DevLucia-21/sote-fe)  | S:ote 프론트엔드 리포지토리        |
-| [`sote-be`](https://github.com/DevLucia-21/sote-be)  | Spring Boot 기반 백엔드 리포지토리 |
-| [`sote-ai`](https://github.com/DevLucia-21/sote-ai)  | FastAPI 기반 AI 서버 리포지토리   |
+| [`sote-fe`](https://github.com/dPdms21/sote-fe)  | S:ote 프론트엔드 리포지토리        |
+| [`sote-be`](https://github.com/dPdms21/sote-be)  | Spring Boot 기반 백엔드 리포지토리 |
+| [`sote-ai`](https://github.com/dPdms21/sote-ai)  | FastAPI 기반 AI 서버 리포지토리   |
 
 본 저장소는 Fluxion 팀 프로젝트의 프론트엔드 코드를 개인 포트폴리오용으로 정리한 리포지토리입니다.
 
@@ -569,4 +569,4 @@ npm run build
 
 **Yeeun Park**
 
-* GitHub: [DevLucia-21](https://github.com/DevLucia-21)
+* GitHub: [dPdms21](https://github.com/dPdms21)
